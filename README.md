@@ -1,4 +1,5 @@
-# radio_flux_exomoon
+# MOOn STAndard RaDio flux calculator (MOOSTARD)
+
 Radio Flux Calculations for an Exomoon-Exoplanet Interaction
 
 
